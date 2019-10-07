@@ -7,5 +7,5 @@
 - Algoritma dan Pemrograman  
 - Struktur Data I  
 - Struktur Data II  
-- Sistem Basis Data Lanjut  
+- Sistem Basis Data Lanjut
 
